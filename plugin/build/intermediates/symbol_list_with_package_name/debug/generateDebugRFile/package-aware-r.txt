@@ -1,0 +1,5 @@
+com.data.hostedpayments
+drawable app_logo
+id webView1
+layout activity_checkout
+xml network_security_config
